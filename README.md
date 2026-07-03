@@ -2,6 +2,8 @@
 
 > 📊 **[AI Finance Tools Industry Report 2026](https://aifinancetools.co/statistics)** — original data from 462 reviewed AI finance tools across 29 categories, scored on 5 editorial dimensions. Updated in real time. Free to cite with attribution.
 
+> 🧮 **[AP Automation ROI Calculator](https://aifinancetools.co/tools/ap-automation-roi-calculator)** — estimate the time and cost savings of automating accounts payable. Free interactive tool.
+
 > Independent reviews of AI-powered finance tools for SaaS finance teams.
 > Browse the full directory at **[aifinancetools.co](https://aifinancetools.co)**.
 
