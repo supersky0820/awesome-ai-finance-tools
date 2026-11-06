@@ -451,6 +451,7 @@
 - [Altruist](https://altruist.com) — Altruist is a digital custodian and investment management platform built exclusively for Registered Investment Advisors (RIAs), providing the custodial, trading, and reporting infrastructure that a…. [Review →](https://aifinancetools.co/item/altruist)
 - [Betterment](https://www.betterment.com) — Betterment is the original robo-advisor, founded in 2010, and remains one of the largest with over $45 billion in AUM. [Review →](https://aifinancetools.co/item/betterment)
 - [Betterment for Business](https://www.betterment.com/work) — Betterment for Business provides 401(k) plan administration for employers, leveraging Betterment's automated investment management platform to deliver low-cost, well-diversified retirement plans. [Review →](https://aifinancetools.co/item/betterment-for-business)
+- [DisconfirmAI](https://disconfirmai.com/en) — AI investment research and reading platform that seeks contrary evidence before conviction.
 - [Ellevest](https://www.ellevest.com) — Ellevest is a financial platform founded by Sallie Krawcheck designed specifically to address the gender investing gap — the fact that women historically invest less and achieve lower investment re…. [Review →](https://aifinancetools.co/item/ellevest)
 - [ForUsAll](https://forusall.com) — ForUsAll is a 401(k) provider that distinguishes itself by allowing plan participants to allocate a portion of their retirement savings to cryptocurrency investments alongside traditional index fun…. [Review →](https://aifinancetools.co/item/forusall)
 - [Guideline](https://www.guideline.com) — Guideline is the most widely used 401(k) provider for small businesses, serving over 40,000 companies with a full-service plan that handles every administrative, compliance, and investment manageme…. [Review →](https://aifinancetools.co/item/guideline)
@@ -467,6 +468,7 @@
 - [Vestwell](https://vestwell.com) — Vestwell is a digital retirement plan infrastructure platform designed to modernize how retirement plans are administered and distributed. [Review →](https://aifinancetools.co/item/vestwell)
 - [Wealthfront](https://www.wealthfront.com) — Wealthfront is a leading robo-advisor that combines automated portfolio management with sophisticated tax optimization features and comprehensive financial planning tools. [Review →](https://aifinancetools.co/item/wealthfront)
 - [Webull](https://www.webull.com) — Webull is a commission-free trading platform that differentiates from Robinhood by targeting more sophisticated retail investors who want comprehensive market data, technical analysis tools, and ex…. [Review →](https://aifinancetools.co/item/webull)
+
 
 ## Payments Infrastructure
 <a id="payments-infrastructure"></a>
